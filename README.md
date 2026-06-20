@@ -30,3 +30,6 @@ This project is actively maintained and updated whenever possible, with new feat
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Kyro-Client-selfbot.git
+
+```
+or  you  just run the exe join the discord make a ticket ping the owner and you will get a key once the key is used its locked to your account  
