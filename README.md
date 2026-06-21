@@ -15,6 +15,7 @@ download from media fire: https://www.mediafire.com/file/n5ry5lo43htrif4/user_ve
 > its a low chance of ban when using this selfbot 
 
 ---
+<img width="1090" height="662" alt="image" src="https://github.com/user-attachments/assets/9d6acb8c-1191-414a-83ee-def310a7fad9" />
 
 ## ✨ Features
 
